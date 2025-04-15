@@ -22,16 +22,16 @@ Currently working at **NEXON Buttons** as a Graphics Programmer
 
 ## 🧑‍💻 About
 
-- A programmer who works with **Graphics** and **3D Rendering**
-- Experienced in **Multithreaded Rendering** and **Engine-side Optimization**
-- Focused on **clarity, performance**, and **maintainability** in code design
+- A programmer who works with **Graphics** and **3D Rendering**  
+- Experienced in **Multithreaded Rendering** and **Engine-side Optimization**  
+- Focused on **clarity, performance**, and **maintainability** in code design  
 
 ---
 
 ## 🚀 Current Interests
 
-- 🔹 **3D Graphics Rendering**
-- 🔹 **HLSL Optimization** for better GPU performance
-- 🔹 **Multithreaded Rendering** using Deferred Context
+- **3D Graphics Rendering**  
+- **HLSL Optimization** for better GPU performance  
+- **Multithreaded Rendering** using Deferred Context  
 
 ---
